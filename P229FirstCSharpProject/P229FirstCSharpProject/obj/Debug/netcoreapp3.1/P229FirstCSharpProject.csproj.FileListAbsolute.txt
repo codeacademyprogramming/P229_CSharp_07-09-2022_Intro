@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\bin\Debug\netcoreapp3.1\P229FirstCSharpProject.exe
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\bin\Debug\netcoreapp3.1\P229FirstCSharpProject.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\bin\Debug\netcoreapp3.1\P229FirstCSharpProject.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\bin\Debug\netcoreapp3.1\P229FirstCSharpProject.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\bin\Debug\netcoreapp3.1\P229FirstCSharpProject.dll
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\bin\Debug\netcoreapp3.1\P229FirstCSharpProject.pdb
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\obj\Debug\netcoreapp3.1\P229FirstCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\obj\Debug\netcoreapp3.1\P229FirstCSharpProject.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\obj\Debug\netcoreapp3.1\P229FirstCSharpProject.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\obj\Debug\netcoreapp3.1\P229FirstCSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\obj\Debug\netcoreapp3.1\P229FirstCSharpProject.dll
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\obj\Debug\netcoreapp3.1\P229FirstCSharpProject.pdb
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\obj\Debug\netcoreapp3.1\P229FirstCSharpProject.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229FirstCSharpProject\P229FirstCSharpProject\obj\Debug\netcoreapp3.1\P229FirstCSharpProject.csproj.AssemblyReference.cache
